@@ -3,6 +3,7 @@
 TEN=10
 ONE=1
 
+# Defines position
 def position(k_int):
     '''creates the x-axis and puts the creature in position k_int'''
     x_axis_str='xxxxxxxxxx'
